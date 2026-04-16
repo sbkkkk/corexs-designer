@@ -28,7 +28,7 @@ Built with modern technologies for stability and performance:
 
 ## 🚀 Installation
 
-1.  Navigate to the [Releases](will updated) section and download the latest `CorexsDesignerv2026.1.exe`.
+1.  Navigate to the [Releases](https://github.com/sbkkkk/corexs-designer/releases/tag/v2026.1) section and download the latest `CorexsDesignerv2026.1.exe`.
 2.  Run the installer.
 3.  Accept the License Agreement and choose your installation directory.
 4.  Click **Next** to begin the process. A shortcut will be created on your Desktop and Start Menu automatically.
