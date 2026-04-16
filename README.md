@@ -6,6 +6,8 @@
 
 **Corexs Designer** is a professional-grade vector graphics and layout tool built for creative minds. Combining the power of industry-standard ecosystems with a streamlined, minimalist interface, it is designed for the next generation of digital artists and designers.
 
+HTML , CSS now can be edit with visuality
+
 ---
 
 ## ✨ Key Features
@@ -13,19 +15,6 @@
 - 🎨 **Ultra-Fast Vector Engine:** GPU-accelerated rendering for a seamless, lag-free design experience.
 - 🛠 **Professional Toolset:** Advanced typography, layer management, and smart object manipulation.
 - 🌑 **Adobe-Inspired UI:** A sophisticated dark interface designed to reduce eye strain and keep you focused.
-- 📦 **Standalone Installer:** A self-contained WPF application—no external .NET dependencies required for the end user.
-- 🔗 **Cloud Ready:** Future-proof integration with Corexs Cloud for instant project synchronization.
-
----
-
-## 📸 Screenshots
-
-<p align="center">
-  <img src="files/main-ui.png" width="48%" alt="Main Interface" />
-  <img src="files/vector-tools.png" width="48%" alt="Vector Tools" />
-</p>
-
----
 
 ## 🛠 Tech Stack
 
